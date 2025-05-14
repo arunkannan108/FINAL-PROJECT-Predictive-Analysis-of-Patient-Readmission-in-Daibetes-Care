@@ -11,7 +11,7 @@
   To analyze diabetic patient data and build a model that can *predict the likelihood of hospital readmission* based on patient history, medication, and demographic factors.
 
 
-  -  Dataset Link:*  
+    Dataset Link:*  
  public dataset for reference: (diabetic_data.csv)
   [UCI Machine Learning Repository – Diabetes 130-US hospitals](https://archive.ics.uci.edu/ml/datasets/diabetes+130-us+hospitals+for+years+1999-2008)
 
